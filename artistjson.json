@@ -1,0 +1,307 @@
+{
+    "artists":[
+        {
+            "id":1,
+            "name":"Patrick Boommin",
+            "artistImg":"https://th.bing.com/th/id/R.898221a6d5fb0c4cc7316d3e953d0000?rik=OsHwVgy1TMixuQ&pid=ImgRaw&r=0",
+            "age":43,
+            "bio":"my name is Patrick and i love makin art",
+            "email":"primeboomer535@yahoo.com",
+            "phone":16447636
+        },
+        {
+            "id":2,
+            "name":"Kelly Jackson",
+            "artistImg":"",
+            "age":"37",
+            "bio":"Hello there,join me on Y'Art.",
+            "email":"kellyjack2024@gmail.com",
+            "phone":44644494894
+        },
+        {
+            "id":3,
+            "name":"Natraj Singh",
+            "artistImg":"",
+            "age":56,
+            "bio":"The journey of a beautiful painting begins with a single stroke of paint.",
+            "email":"nasinghpatel@gmail.com",
+            "phone":678347348739
+        },
+        {
+            "id":4,
+            "name":"Kai Young",
+            "artistImg":"",
+            "age":22,
+            "bio":"Sip some Jasmine tea and paint while I'm at it.",
+            "email":"youngkaigrind@gmail.com",
+            "phone":877347847378
+        },
+        {
+            "id":5,
+            "name":"Justina Bright",
+            "artistImg":"",
+            "age":6,
+            "bio":"My hobby is drawing my favorite cartoon characters.",
+            "email":"laurabri35@gmail.com",
+            "phone":7383246926
+        },
+        {
+            "id":6,
+            "name":"Vivian Nyambura",
+            "artistImg":"",
+            "age":29,
+            "bio":"You can e-mail me if you're lookin to hire some artists.",
+            "email":"vivtellem@outlook.com",
+            "phone":254717573564
+        },
+        {
+            "id":7,
+            "name":"Harry Potter",
+            "artistImg":"",
+            "age":58,
+            "bio":"Greetings,Mate.",
+            "email":"hppower7331@gmail.com",
+            "phone":762367723763
+        },
+        {
+            "id":8,
+            "name":"Zahra Mohammed",
+            "artistImg":"",
+            "age":21,
+            "bio":"Contemporary art is a taste.",
+            "email":"zahramohaa@gmail.com",
+            "phone":254798392839
+        },
+        {
+            "id":9,
+            "name":"'Jacques Webster",
+            "artistImg":"",
+            "age":30,
+            "bio":"Its hot like la flame.",
+            "email":"cacktusjok@gmail.com",
+            "phone":14367833747
+        },
+        {
+            "id":10,
+            "name":"Damius Saint-Rodrigo",
+            "artistImg":"",
+            "age":33,
+            "bio":"You can call me Rodri.",
+            "email":"alpharodrigo@outlook.com",
+            "phone":237844834789
+        }
+
+        
+    ],
+    "art":[
+        {
+            "id":1,
+            "cat":"Painting",
+            "artImg":"https://th.bing.com/th/id/R.898221a6d5fb0c4cc7316d3e953d0000?rik=OsHwVgy1TMixuQ&pid=ImgRaw&r=0",
+            "artDesc":"This piece was truly a masterpiece.Contact me via e-mail if you wanna purchase it.",
+            "price":"KES 4800",
+            "numProd":1
+
+        },
+        {
+            "id":1,
+            "cat":"Painting",
+            "artImg":"https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/faces-abstract-painting-fluid-painting-patricia-piotrak.jpg",
+            "artDesc":"Whenever i feel  overwhelmed or bored i just take my paint my paint brush and let my heart speak.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":2,
+            "cat":"Sketch",
+            "artImg":"https://th.bing.com/th/id/OIP.OfLtGMQM76tHpHMxbKa2FQAAAA?rs=1&pid=ImgDetMain",
+            "artDesc":"Someone said to me practice...practice...practice",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":3,
+            "cat":"Sculpture",
+            "artImg":"https://th.bing.com/th/id/OIP.Scce6cp4ck477A52q_jo2gHaJ4?rs=1&pid=ImgDetMain",
+            "artDesc":"Might not be as big as the statue of liberty but it's still big to me.",
+            "price":"KES 1650",
+            "numProd":5
+
+        },
+        {
+            "id":3,
+            "cat":"Sculpture",
+            "artImg":"https://th.bing.com/th/id/R.e5b9e870222477f9ce530d57e7e3feee?rik=BFZmGyezWNOdWQ&riu=http%3a%2f%2f2.bp.blogspot.com%2f-_vsE1DvM-Lg%2fVWFTgakqfgI%2fAAAAAAAABTY%2ff2qDl8YsT6I%2fs1600%2f100_1306.JPG&ehk=tKGr%2bJsvUywcM2ghlxU07%2banMWHcb1B2jb4d9BufE84%3d&risl=&pid=ImgRaw&r=0",
+            "artDesc":"For sale.Chat to me via e-mail.",
+            "price":"KES 3200",
+            "numProd":2
+
+        },
+        {
+            "id":4,
+            "cat":"Architecture",
+            "artImg":"https://th.bing.com/th/id/OIP.KfjPEnznXgKydRBOxibt8QHaE8?rs=1&pid=ImgDetMain",
+            "artDesc":"Even building designs can be considered works of art.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":4,
+            "cat":"Architecture",
+            "artImg":"https://th.bing.com/th/id/R.03cda389a89ed24de683e841dea0f256?rik=ucJPKF%2bcm0woXg&riu=http%3a%2f%2ffeedinspiration.com%2fwp-content%2fuploads%2f2015%2f04%2fUnique-Home-Design-Features.jpg&ehk=G08q2PFyifNofYRTLHhxDHL3g5dQb8W3Qno%2fip8zrUo%3d&risl=&pid=ImgRaw&r=0",
+            "artDesc":"Build your dream.Literally.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":5,
+            "cat":"Cartoon",
+            "artImg":"https://www.artistichaven.com/wp-content/uploads/2020/12/Easy-Cartoon-Characters-To-Draw-For-Beginners-11-1.jpg",
+            "artDesc":"Cute.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":5,
+            "cat":"Cartoon",
+            "artImg":"https://images.designtrends.com/wp-content/uploads/2016/03/08003952/Cute-Little-Drawing.jpg",
+            "artDesc":"Goofy.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":6,
+            "cat":"Landscape",
+            "artImg":"https://th.bing.com/th/id/OIP.dXky4JiiD6wmiLBiWTVBtgHaFj?rs=1&pid=ImgDetMain",
+            "artDesc":"Mother Nature is sooo beautiful.",
+            "price":"KES 1600",
+            "numProd":1
+
+        },
+        {
+            "id":7,
+            "cat":"Futuristic",
+            "artImg":"https://th.bing.com/th/id/R.b1262904e893c737897dba686675b8df?rik=n6ZcyxauKWw7kA&riu=http%3a%2f%2fimg2.joyreactor.com%2fpics%2fpost%2fart-Sci-Fi-1747237.jpeg&ehk=cLX04bA8s0mt6LxFAX6V458SA7rqtHqiHHPD0ftvn7g%3d&risl=&pid=ImgRaw&r=0",
+            "artDesc":"Count me in.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":7,
+            "cat":"Futuristic",
+            "artImg":"https://th.bing.com/th/id/OIP.rHd3g-wYjq1tOMpNJErR_gHaEK?rs=1&pid=ImgDetMain",
+            "artDesc":"Might be 2d4y,Might be 2m0rr0w.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":7,
+            "cat":"Futuristic",
+            "artImg":"https://th.bing.com/th/id/R.c57607bb78165cce7f251c7d36d4bb99?rik=GWIpoxYXjScSYg&pid=ImgRaw&r=0",
+            "artDesc":"Beep.Boop.",
+            "price":"KES 2000",
+            "numProd":1
+
+        },
+        {
+            "id":7,
+            "cat":"Futuristic",
+            "artImg":"https://th.bing.com/th/id/OIP.HCagERj_oWh2iEYrSqmOLAHaFF?rs=1&pid=ImgDetMain",
+            "artDesc":"Just a couple more years and our fantasies become reality.",
+            "price":"KES 1300",
+            "numProd":1
+
+        },
+        {
+            "id":7,
+            "cat":"Futuristic",
+            "artImg":"https://th.bing.com/th/id/OIP.HCagERj_oWh2iEYrSqmOLAHaFF?rs=1&pid=ImgDetMain",
+            "artDesc":"I can see the future.",
+            "price":"KES 1000",
+            "numProd":1
+
+        },
+        {
+            "id":8,
+            "cat":"Clay",
+            "artImg":"https://th.bing.com/th/id/OIP.lTD5HF9UkIsqHlkldDrABgHaE7?rs=1&pid=ImgDetMain",
+            "artDesc":"If you think about it our futures are pretty much like clay...in the sense that we can shape it however we want...cool right.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":8,
+            "cat":"Clay",
+            "artImg":"https://i.etsystatic.com/8161191/r/il/3dc989/2348405347/il_fullxfull.2348405347_dwkl.jpg",
+            "artDesc":"Earth...what an abundant resource.",
+            "price":"KES 2100",
+            "numProd":"12"
+
+        },
+        {
+            "id":8,
+            "cat":"Clay",
+            "artImg":"https://4.bp.blogspot.com/-zbEm0bDFD8s/W26_wV-A60I/AAAAAAAACPE/a2D3xONFvKUwVq3NiWokFZambSBEq105wCLcBGAs/s1600/IMG_9200.JPG",
+            "artDesc":"Tell me that's not a work of art.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":8,
+            "cat":"Clay",
+            "artImg":"https://i.pinimg.com/originals/de/44/f6/de44f69f995ec5dd4ac0135cf2cc3cd1.png",
+            "artDesc":"BID",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":9,
+            "cat":"Auto",
+            "artImg":"https://t3.ftcdn.net/jpg/03/61/85/00/360_F_361850031_6rOndW5YARJzMu23EYea2OyVFYAfCNn8.jpg",
+            "artDesc":"The classic design of this old beauty are just to die for.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":9,
+            "cat":"Auto",
+            "artImg":"https://i.pinimg.com/736x/df/e8/b7/dfe8b759bd839fdb0d0c4519f1cdb672.jpg",
+            "artDesc":"There's just something about this car's design that feels like it's callin me.I'll cope it one day.",
+            "price":null,
+            "numProd":null
+
+        },
+        {
+            "id":10,
+            "cat":"Plants",
+            "artImg":"https://m.media-amazon.com/images/I/81GJAz9ginL._AC_UF894,1000_QL80_.jpg",
+            "artDesc":"Potted plants are a great accessory to your house.You should buy one.",
+            "price":"KES 2700",
+            "numProd":1
+
+        },
+        {
+            "id":10,
+            "cat":"Plants",
+            "artImg":"https://images-na.ssl-images-amazon.com/images/I/61wQIWcqjwL.jpg",
+            "artDesc":"Why not buy one and surprise your girlfriend.She'll love it.",
+            "price":"KES 3000",
+            "numProd":1
+
+        }
+
+
+    ]
+}
